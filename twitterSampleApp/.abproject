@@ -1,0 +1,40 @@
+{
+  "ProjectName": "twitterSampleApp",
+  "ProjectGuid": "0a987a5b-09c4-4c6a-a123-4319df4bb99a",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.twitterSampleApp",
+  "DisplayName": "twitterSampleApp",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{833257c7-7cc1-461f-bdce-69e468694189}",
+  "WP8ProductID": "{df24d706-d968-4053-ae1b-626b61623b60}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.twitterSampleApp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
